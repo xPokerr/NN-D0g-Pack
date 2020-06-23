@@ -4,7 +4,7 @@
 
 local mainREF = gui.Reference( "Settings" )
 
-local mainTAB = gui.Tab(mainREF, "doggo.pack.tab", "Doggo's Pack")
+local mainTAB = gui.Tab(mainREF, "doggo.pack.tab", "NN D0g Pack")
 
 local maingroupBox = gui.Groupbox(mainTAB, "                                                                            NN D0g Pack by xpoker", 16, 16, 608, 500)
 
